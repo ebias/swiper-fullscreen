@@ -8,9 +8,10 @@
 .dialog.dialog-slider-fullscreen .close {
 	font-size: 55px;
 	z-index: 1000;
+	color: white;
 }
 .dialog.dialog-slider-fullscreen .close:hover {
-	color: #888;
+	color: white;
 }
 
 .dialog.dialog-slider-fullscreen .fs-swiper-slide {
